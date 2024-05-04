@@ -1,13 +1,29 @@
 # PROJECT
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus commodo vulputate tellus, vitae efficitur nunc rhoncus quis. Etiam in sem egestas, fringilla nisi vitae, accumsan metus. Vivamus nec quam efficitur tellus faucibus porttitor. Proin ornare augue eu metus sollicitudin, a lobortis velit tempor. Maecenas pulvinar nisl ut cursus dapibus. Maecenas vitae lacus ac mauris ultricies dapibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec ac est tortor. Ut dictum turpis porttitor turpis rutrum, vitae molestie urna varius. Cras eget fermentum ligula. Suspendisse odio ante, sollicitudin et lectus sit amet, consectetur tristique enim. Nulla pulvinar ligula non mollis ultrices.
+## Masalah
 
-Pellentesque malesuada rutrum felis, nec posuere dui varius id. Vivamus massa neque, dictum id nisi quis, laoreet feugiat ex. Morbi ut aliquam purus. Duis magna arcu, porttitor rutrum vehicula at, hendrerit nec libero. Suspendisse vel ornare quam. Vestibulum ac eleifend arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi id volutpat risus, ac maximus nulla. Sed scelerisque massa vitae eros aliquam, tempus laoreet neque maximus. Quisque feugiat tempus tortor, eu imperdiet lectus dapibus et. Sed gravida erat vel odio imperdiet efficitur. Pellentesque in odio eget libero euismod convallis vel a neque. Sed a varius neque. Pellentesque a turpis ut lorem condimentum dapibus quis ut diam.
+Fluktuasi cuaca yang ekstrem dapat berdampak signifikan pada sektor pertanian, khususnya panen padi. Hal ini dapat menyebabkan gagal panen dan penurunan hasil panen, yang pada akhirnya memicu kenaikan harga bahan pokok seperti beras.
 
-Nullam enim leo, tempor ac nisi dictum, fringilla tincidunt nunc. Maecenas pulvinar gravida libero quis gravida. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Ut eu ipsum massa. Ut eget vehicula ante. Nulla eu varius erat. Duis sit amet gravida velit, eu malesuada lorem. Integer suscipit ultricies sapien in dignissim. Cras dictum velit sem, in auctor metus molestie eu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi auctor convallis est, quis blandit dolor malesuada non. Aenean euismod egestas vehicula. Donec rutrum est sed leo ullamcorper, in dignissim libero interdum.
+## Akibat
 
-## Contributions
+Kenaikan harga bahan pokok seperti beras dapat membebani masyarakat, terutama bagi mereka yang berpenghasilan rendah. Hal ini dapat meningkatkan kemiskinan dan kerawanan pangan, serta mengganggu stabilitas ekonomi.
+
+## Solusi
+
+Pendeteksian dan analisis cuaca secara akurat dengan menggunakan machine learning dapat membantu memprediksi potensi gagal panen dan fluktuasi harga beras. Prediksi ini dapat digunakan untuk:
+
+Membantu petani dalam mengambil keputusan: Petani dapat menggunakan informasi prediksi cuaca untuk mengoptimalkan waktu tanam, memilih varietas padi yang tepat, dan menerapkan strategi budidaya yang sesuai dengan kondisi cuaca.
+Membantu pemerintah dalam merumuskan kebijakan: Pemerintah dapat menggunakan informasi prediksi cuaca untuk merumuskan kebijakan yang tepat untuk menjaga stabilitas harga beras dan membantu petani yang terdampak gagal panen.
+Membantu masyarakat dalam mempersiapkan diri: Masyarakat dapat menggunakan informasi prediksi cuaca untuk mempersiapkan diri terhadap potensi kenaikan harga beras dan kerawanan pangan.
+
+## Tim
 
 - Mohammad Ezra Nur Islami (1217050083)
 - Muhamad Iqbal Fauzi (1217050085)
 - Muhamad Randi Septiansah (1217050086)
+
+## Penelitian Terkait:
+
+- [Weather Data Analytics using Apache Spark](http://ieeexplore.ieee.org/abstract/document/8245142/)
+- [Weather Data Analytics using Apache Spark](http://ijsetr.com/uploads/231564IJSETR17010-265.pdf)
+- [Weather prediction model using random forest algorithm and apache spark](https://www.academia.edu/download/61250669/92_Weather_Prediction_Model_Using_Random_Forest_Algorithm_and_Apache_Spark20191118-100940-1s0u6id.pdf)
