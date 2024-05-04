@@ -24,6 +24,6 @@ Membantu masyarakat dalam mempersiapkan diri: Masyarakat dapat menggunakan infor
 
 ## Penelitian Terkait:
 
-- [Weather Data Analytics using Apache Spark](http://ieeexplore.ieee.org/abstract/document/8245142/)
+- [Weather Data Analytics using Apache Spark — An in-memory computing framework](http://ieeexplore.ieee.org/abstract/document/8245142/)
 - [Weather Data Analytics using Apache Spark](http://ijsetr.com/uploads/231564IJSETR17010-265.pdf)
 - [Weather prediction model using random forest algorithm and apache spark](https://www.academia.edu/download/61250669/92_Weather_Prediction_Model_Using_Random_Forest_Algorithm_and_Apache_Spark20191118-100940-1s0u6id.pdf)
