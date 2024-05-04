@@ -12,9 +12,9 @@ Kenaikan harga bahan pokok seperti beras dapat membebani masyarakat, terutama ba
 
 Pendeteksian dan analisis cuaca secara akurat dengan menggunakan machine learning dapat membantu memprediksi potensi gagal panen dan fluktuasi harga beras. Prediksi ini dapat digunakan untuk:
 
-- Membantu petani dalam mengambil keputusan: Petani dapat menggunakan informasi prediksi cuaca untuk mengoptimalkan waktu tanam, memilih varietas padi yang tepat, dan menerapkan strategi budidaya yang sesuai dengan kondisi cuaca.
-- Membantu pemerintah dalam merumuskan kebijakan: Pemerintah dapat menggunakan informasi prediksi cuaca untuk merumuskan kebijakan yang tepat untuk menjaga stabilitas harga beras dan membantu petani yang terdampak gagal panen.
-- Membantu masyarakat dalam mempersiapkan diri: Masyarakat dapat menggunakan informasi prediksi cuaca untuk mempersiapkan diri terhadap potensi kenaikan harga beras dan kerawanan pangan.
+- **Membantu petani dalam mengambil keputusan**: Petani dapat menggunakan informasi prediksi cuaca untuk mengoptimalkan waktu tanam, memilih varietas padi yang tepat, dan menerapkan strategi budidaya yang sesuai dengan kondisi cuaca.
+- **Membantu pemerintah dalam merumuskan kebijakan**: Pemerintah dapat menggunakan informasi prediksi cuaca untuk merumuskan kebijakan yang tepat untuk menjaga stabilitas harga beras dan membantu petani yang terdampak gagal panen.
+- **Membantu masyarakat dalam mempersiapkan diri**: Masyarakat dapat menggunakan informasi prediksi cuaca untuk mempersiapkan diri terhadap potensi kenaikan harga beras dan kerawanan pangan.
 
 ## Tim
 
