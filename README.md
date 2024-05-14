@@ -27,3 +27,7 @@ Pendeteksian dan analisis cuaca secara akurat dengan menggunakan machine learnin
 - [Weather Data Analytics using Apache Spark — An in-memory computing framework](http://ieeexplore.ieee.org/abstract/document/8245142/)
 - [Weather Data Analytics using Apache Spark](http://ijsetr.com/uploads/231564IJSETR17010-265.pdf)
 - [Weather prediction model using random forest algorithm and apache spark](https://www.academia.edu/download/61250669/92_Weather_Prediction_Model_Using_Random_Forest_Algorithm_and_Apache_Spark20191118-100940-1s0u6id.pdf)
+
+## Proposal and Video Promotion
+- [Proposal](https://www.canva.com/design/DAGEL0JxL6o/M8CrOSsQRi22lKmj5dzSBg/edit)
+- [Video Promotion] (https://www.instagram.com/reel/C66X-B-ug0Q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
