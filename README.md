@@ -30,4 +30,4 @@ Pendeteksian dan analisis cuaca secara akurat dengan menggunakan machine learnin
 
 ## Proposal and Video Promotion
 - [Proposal](https://www.canva.com/design/DAGEL0JxL6o/M8CrOSsQRi22lKmj5dzSBg/edit)
-- [Video Promotion] (https://www.instagram.com/reel/C66X-B-ug0Q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [Video Promotion](https://www.instagram.com/reel/C66X-B-ug0Q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
