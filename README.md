@@ -1,26 +1,41 @@
-# PROJECT
+# CFARM Project
 
-## Masalah
+## Problem
 
-Fluktuasi cuaca yang ekstrem dapat berdampak signifikan pada sektor pertanian, khususnya panen padi. Hal ini dapat menyebabkan gagal panen dan penurunan hasil panen, yang pada akhirnya memicu kenaikan harga bahan pokok seperti beras.
+Extreme weather fluctuations can have a significant impact on the agricultural sector, particularly the rice harvest. This can lead to crop failure and reduced yields, which in turn triggers an increase in the price of staples such as rice.
 
-## Akibat
+## Consequences
 
-Kenaikan harga bahan pokok seperti beras dapat membebani masyarakat, terutama bagi mereka yang berpenghasilan rendah. Hal ini dapat meningkatkan kemiskinan dan kerawanan pangan, serta mengganggu stabilitas ekonomi.
+Increases in the price of staples such as rice can be burdensome for the community, especially for those on low incomes. This can increase poverty and food insecurity, and destabilize the economy.
 
-## Solusi
+## Solution
 
-Pendeteksian dan analisis cuaca secara akurat dengan menggunakan machine learning dapat membantu memprediksi potensi gagal panen dan fluktuasi harga beras. Prediksi ini dapat digunakan untuk:
+Accurate weather detection and analysis using machine learning can help predict potential crop failures and fluctuations in rice prices. These predictions can be used to:
 
-- **Membantu petani dalam mengambil keputusan**: Petani dapat menggunakan informasi prediksi cuaca untuk mengoptimalkan waktu tanam, memilih varietas padi yang tepat, dan menerapkan strategi budidaya yang sesuai dengan kondisi cuaca.
-- **Membantu pemerintah dalam merumuskan kebijakan**: Pemerintah dapat menggunakan informasi prediksi cuaca untuk merumuskan kebijakan yang tepat untuk menjaga stabilitas harga beras dan membantu petani yang terdampak gagal panen.
-- **Membantu masyarakat dalam mempersiapkan diri**: Masyarakat dapat menggunakan informasi prediksi cuaca untuk mempersiapkan diri terhadap potensi kenaikan harga beras dan kerawanan pangan.
+- **Assist farmers in making decisions**: Farmers can use weather prediction information to optimize planting time, select the right rice varieties, and implement cultivation strategies that suit the weather conditions.
+- Assist the government in formulating policies\*\*: The government can use weather prediction information to formulate appropriate policies to maintain rice price stability and help farmers affected by crop failure.
+- **Helping the community prepare**: Communities can use weather prediction information to prepare themselves for potential rice price increases and food insecurity.
 
-## Tim
+## Teams
 
 - Mohammad Ezra Nur Islami (1217050083)
 - Muhamad Iqbal Fauzi (1217050085)
 - Muhamad Randi Septiansah (1217050086)
+
+## Build With
+
+- **Scraper Data**
+  - Python
+  - Library Request, bs4, Matplotlib, SKLearn
+- **Machine Learning:**
+  - Python
+  - TensorFlow
+  - Google Colab
+- **Backend & DevOps Development:**
+  - Python
+  - Flask
+  - Nginx
+  - Docker Swarm
 
 ## Penelitian Terkait:
 
@@ -29,5 +44,6 @@ Pendeteksian dan analisis cuaca secara akurat dengan menggunakan machine learnin
 - [Weather prediction model using random forest algorithm and apache spark](https://www.academia.edu/download/61250669/92_Weather_Prediction_Model_Using_Random_Forest_Algorithm_and_Apache_Spark20191118-100940-1s0u6id.pdf)
 
 ## Proposal and Video Promotion
+
 - [Proposal](https://www.canva.com/design/DAGEL0JxL6o/M8CrOSsQRi22lKmj5dzSBg/edit)
-- [Video Promotion](https://www.instagram.com/reel/C66X-B-ug0Q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+- [Video Promotion](https://youtu.be/lbmYYuRoxnw)
