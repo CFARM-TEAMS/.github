@@ -37,7 +37,7 @@ Accurate weather detection and analysis using machine learning can help predict 
   - Nginx
   - Docker Swarm
 
-## Penelitian Terkait:
+## Related Research:
 
 - [Weather Data Analytics using Apache Spark — An in-memory computing framework](http://ieeexplore.ieee.org/abstract/document/8245142/)
 - [Weather Data Analytics using Apache Spark](http://ijsetr.com/uploads/231564IJSETR17010-265.pdf)
