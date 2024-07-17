@@ -32,7 +32,7 @@ Accurate weather detection and analysis using machine learning can help predict 
 
 - **Scraper Data**
   - Python
-  - Library Request, bs4, Matplotlib, SKLearn
+  - Library pandas, Request, bs4, Matplotlib, SKLearn
 - **Machine Learning:**
   - Python
   - TensorFlow
