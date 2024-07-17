@@ -1,5 +1,9 @@
 # CFARM Project
 
+<p align="center">
+  <img src="assets/logo.jpg" alt="CFARM Logo" width="300">
+</p>
+
 ## Problem
 
 Extreme weather fluctuations can have a significant impact on the agricultural sector, particularly the rice harvest. This can lead to crop failure and reduced yields, which in turn triggers an increase in the price of staples such as rice.
