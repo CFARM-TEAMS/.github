@@ -31,6 +31,7 @@ Link Youtube: [Here](https://youtu.be/5oHMRXEHsl4)
 <p align="center">
   <img src="assets/system-architecture.png" alt="system architecture" width="100%">
 </p>
+
 ## Teams
 
 | Member                   | Student ID | Role                                 | Class                |
