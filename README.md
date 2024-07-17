@@ -1,8 +1,10 @@
 # CFARM Project
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/logo.jpg" alt="CFARM Logo" width="100%">
-</p>
+</p> -->
+
+[![CFARM LOGO](assets/logo.jpg)](https://youtu.be/5oHMRXEHsl4)
 
 ## Problem
 
