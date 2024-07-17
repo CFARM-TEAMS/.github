@@ -1,7 +1,7 @@
 # CFARM Project
 
 <p align="center">
-  <img src="assets/logo.jpg" alt="CFARM Logo" width="300">
+  <img src="assets/logo.jpg" alt="CFARM Logo" width="100%">
 </p>
 
 ## Problem
