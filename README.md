@@ -1,9 +1,8 @@
 # CFARM Project
 
-[![CFARM LOGO](assets/logo.jpg)](https://youtu.be/5oHMRXEHsl4)
-Click on the logo image above to view the application demo.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5oHMRXEHsl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <img src="assets/logo.jpg" alt="CFARM Logo" width="100%">
+</p>
 
 ## Problem
 
@@ -20,6 +19,11 @@ Accurate weather detection and analysis using machine learning can help predict 
 - **Assist farmers in making decisions**: Farmers can use weather prediction information to optimize planting time, select the right rice varieties, and implement cultivation strategies that suit the weather conditions.
 - Assist the government in formulating policies\*\*: The government can use weather prediction information to formulate appropriate policies to maintain rice price stability and help farmers affected by crop failure.
 - **Helping the community prepare**: Communities can use weather prediction information to prepare themselves for potential rice price increases and food insecurity.
+
+## Demo Application
+
+https://github.com/user-attachments/assets/43213a2d-b908-40d0-8b37-e0248a261876
+Link Youtube: [Here](https://youtu.be/5oHMRXEHsl4)
 
 ## Teams
 
