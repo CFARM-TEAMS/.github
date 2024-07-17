@@ -29,7 +29,7 @@ Link Youtube: [Here](https://youtu.be/5oHMRXEHsl4)
 ## System Architecture
 
 <p align="center">
-  <img src="assets/system-architecture.png" alt="system architecture" width="100%">
+  <img src="assets/system-architecture.png" alt="system architecture" width="50%">
 </p>
 
 ## Teams
