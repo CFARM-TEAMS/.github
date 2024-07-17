@@ -26,6 +26,11 @@ https://github.com/user-attachments/assets/43213a2d-b908-40d0-8b37-e0248a261876
 
 Link Youtube: [Here](https://youtu.be/5oHMRXEHsl4)
 
+## System Architecture
+
+<p align="center">
+  <img src="assets/system-architecture.png" alt="system architecture" width="100%">
+</p>
 ## Teams
 
 | Member                   | Student ID | Role                                 | Class                |
