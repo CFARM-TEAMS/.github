@@ -1,10 +1,9 @@
 # CFARM Project
 
-<!-- <p align="center">
-  <img src="assets/logo.jpg" alt="CFARM Logo" width="100%">
-</p> -->
-
 [![CFARM LOGO](assets/logo.jpg)](https://youtu.be/5oHMRXEHsl4)
+Click on the logo image above to view the application demo.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5oHMRXEHsl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Problem
 
