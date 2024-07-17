@@ -22,9 +22,11 @@ Accurate weather detection and analysis using machine learning can help predict 
 
 ## Teams
 
-- Mohammad Ezra Nur Islami (1217050083)
-- Muhamad Iqbal Fauzi (1217050085)
-- Muhamad Randi Septiansah (1217050086)
+| Member                   | Student ID | Role                                 | Class                |
+| ------------------------ | ---------- | ------------------------------------ | -------------------- |
+| Mohammad Ezra Nur Islami | 1217050083 | Machine Learning Developer & Scraper | Distributed System C |
+| Muhamad Iqbal Fauzi      | 1217050085 | Backend Developer                    | Distributed System C |
+| Muhamad Randi Septiansah | 1217050086 | DevOps                               | Distributed System C |
 
 ## Build With
 
